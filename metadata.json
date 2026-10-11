@@ -1,0 +1,6 @@
+{
+  "name": "PHOBOS Zfit - Electrochemical Impedance Spectroscopy Studio",
+  "description": "Advanced client-side electrochemical impedance spectroscopy (EIS) suite with ECM circuit builder, 2D/3D visualization, Lin-KK Kramers-Kronig testing, and multi-algorithm circuit fitting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
